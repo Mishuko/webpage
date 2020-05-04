@@ -1,0 +1,44 @@
+html, body {
+  width: 99%;
+  height: 99%;
+}
+
+html {
+  background: url('anchor.jpg') no-repeat center fixed;
+  background-size: cover;
+}
+
+#time {
+  background: black;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  position: relative;
+  margin: auto;
+  top: 35%;
+  width: fit-content;
+  background: rgba(204, 204, 204, 0.2);
+}
+
+#time h1 {
+  margin: 10px;
+  font-size: 80px;
+}
+
+#secondText {
+  background: black;
+  text-align: center;
+  color: white;
+  width: fit-content;
+  border-radius: 10px;
+  position: relative;
+  margin: auto;
+  top: 40%;
+  background: rgba(204, 204, 204, 0.2);
+}
+
+#secondText h2 {
+  margin: 10px;
+  height: auto;
+  font-size: 40px;
+}
