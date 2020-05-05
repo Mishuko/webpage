@@ -1,0 +1,72 @@
+html, body {
+  width: 99%;
+  height: 99%;
+}
+
+html {
+  background: url('anchor.jpg') no-repeat center fixed;
+  background-size: cover;
+}
+
+#time {
+  background: black;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  position: relative;
+  margin: auto;
+  top: 35%;
+  width: fit-content;
+  background: rgba(204, 204, 204, 0.2);
+}
+
+#time h1 {
+  margin: 10px;
+  font-size: 80px;
+
+}
+
+#secondText {
+  text-align: center;
+  color: white;
+  width: fit-content;
+  border-radius: 10px;
+  position: relative;
+  margin: auto;
+  top: 40%;
+  background: rgba(204, 204, 204, 0.2);
+}
+
+#secondText h2 {
+  margin: 10px;
+  height: auto;
+  font-size: 40px;
+}
+
+
+#list {
+   font-size: 20px;
+   color: white;
+   width: fit-content;
+   position: absolute;
+   top: 0%;
+}
+
+
+#link {
+  font-size: 20px;
+  position: relative;
+  top: 45%;
+  margin: auto;
+  width: fit-content;
+  margin: 0, auto;
+  background: rgba(204, 204, 204, .5);
+  border-radius: 5px;
+
+
+}
+
+#link2 {
+  margin: 5px;
+  color: #3d6f9c;
+}
